@@ -1,3 +1,6 @@
+<a target="_blank" href="https://colab.research.google.com/github/Dance2Win/Stable-Diffusion-Token-Inspector/blob/main/Stable_Diffusion_Token_Inspector.ipynb">
+        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="250"/>
+
 # Stable-Diffusion-Token-Inspector
 Stable Diffusion - want to know all of the trained tokens in a model?
 
